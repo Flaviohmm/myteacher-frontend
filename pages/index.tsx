@@ -3,7 +3,9 @@ import Cabecalho from '../src/components/Cabecalho/Cabecalho'
 
 const Home: NextPage = () => {
   return (
-    <Cabecalho/>
+    <>
+      <div>Conteudo</div>
+    </>
   )
 }
 
